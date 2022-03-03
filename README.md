@@ -29,4 +29,4 @@ A sample output slice can be obtained by running ShowResults.py;
 
 
 
-I got the Watershed segmentation algorithm from this Kaggle post: https://www.kaggle.com/ankasor/improved-lung-segmentation-using-watershed
+I got the Watershed segmentation algorithm from this amazing Kaggle post: https://www.kaggle.com/ankasor/improved-lung-segmentation-using-watershed
