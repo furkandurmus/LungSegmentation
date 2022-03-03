@@ -23,7 +23,7 @@ DATA FOLDER
 
 ```
 
-A sample output slice;
+A sample output slice can be obtained by running ShowResults.py;
 
 ![2022-03-04_02-19-10](https://user-images.githubusercontent.com/12261453/156670425-8971b03e-cbf6-4e33-97aa-0da563783517.png)
 
